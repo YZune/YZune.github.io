@@ -12,14 +12,14 @@ github_repo: "https://github.com/YZune/YZune.github.io.git" # you code repositor
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "若最后能溶化你，何必心急手震。"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/yzune.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     yzune
-zhihu_username:     yzune
+#zhihu_username:     yzune
 github_username:    yzune
 jianshu_username:   f177ad843217
 #twitter_username:   qiubaiying
