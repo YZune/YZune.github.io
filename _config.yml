@@ -7,7 +7,7 @@ description: "若最后能溶化你，何必心急手震。"
 keyword: "Android, iOS, YZune, WakeUp"
 url: "https://yzune.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/YZune/YZune.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
