@@ -1,9 +1,9 @@
 # Site settings
 title: YZune's Blog
-SEOTitle: YZune的博客 | 炼金术士的自我修养
+SEOTitle: YZune的博客 | 难觅炼金术
 header-img: img/post-bg-desk.jpg
 email: windowsyangzeng@hotmail.com
-description: "若最后能溶化你，何必心急手震。"
+description: "以爱之名 你还愿意吗"
 keyword: "Android, iOS, YZune, WakeUp"
 url: "https://yzune.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/YZune/YZune.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "若最后能溶化你，何必心急手震。"
+sidebar-about-description: "以爱之名 你还愿意吗"
 sidebar-avatar: /img/yzune.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
