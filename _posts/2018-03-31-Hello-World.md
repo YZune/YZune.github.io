@@ -10,3 +10,5 @@ tags:
     - 首篇
 ---
 # Hello World
+
+![咩咩](https://ws3.sinaimg.cn/large/006tNc79gy1fq4816v416j30e80e80u3.jpg)
