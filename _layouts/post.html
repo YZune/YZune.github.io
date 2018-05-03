@@ -65,9 +65,6 @@ layout: default
 
                 <hr style="visibility: hidden;">
 
-                <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-                </script>
-
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -205,6 +202,16 @@ layout: default
       s.parentNode.insertBefore(o, s);
     }
 </script>
+
+<script>
+    (function () {
+      var script = document.createElement("script");
+      script.type = "text/javascript";
+      script.src  = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+      document.getElementsByTagName("head")[0].appendChild(script);
+    })();
+  </script>
+  
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
     async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
