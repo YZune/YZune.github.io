@@ -14,7 +14,17 @@ sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "雨黑风高\n点一盏孤灯\n也可当月亮"
 sidebar-avatar: /img/yzune.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-
+# Friends
+friends: [
+    {
+        title: "南溪",
+        href: "https://blog.ibilidi.cn/"
+    },
+    {
+        title: "邹健",
+        href: "http://39.108.146.206/"
+    }
+]
 
 # SNS settings
 RSS: false
