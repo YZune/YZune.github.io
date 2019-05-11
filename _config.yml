@@ -1,7 +1,7 @@
 # Site settings
 title: YZune's Blog
 SEOTitle: YZune的博客 | 假如让我说下去
-header-img: img/post-bg-desk.jpg
+header-img: img/main_bg.jpg
 email: windowsyangzeng@hotmail.com
 description: "雨黑风高\n点一盏孤灯\n也可当月亮"
 keyword: "Android, iOS, YZune, WakeUp"
@@ -29,10 +29,10 @@ friends: [
 # SNS settings
 RSS: false
 # weibo_username:     yzune
-#zhihu_username:     yzune
+# zhihu_username:     yzune
 github_username:    yzune
 jianshu_username:   f177ad843217
-#twitter_username:   qiubaiying
+# twitter_username:   qiubaiying
 
 
 

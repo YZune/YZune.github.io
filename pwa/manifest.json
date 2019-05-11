@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "YZune",
+  "short_name": "YZune",
+  "description": "假如让我说下去。",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",

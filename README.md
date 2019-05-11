@@ -6,8 +6,6 @@
 > 
 ### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
 
 ## 使用
 
@@ -81,9 +79,6 @@ tags:
 
 ### 侧边栏
 
-看右边:
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-side.png)
-
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
 ```
@@ -155,8 +150,6 @@ friends: [
 ### Keynote Layout
 
 HTML5幻灯片的排版：
-
-![](https://camo.githubusercontent.com/f30347a118171820b46befdf77e7b7c53a5641a9/687474703a2f2f6875616e677875616e2e6d652f696d672f626c6f672d6b65796e6f74652e6a7067)
 
 这部分是用于占用html格式的幻灯片的，一般用到的是 Reveal.js, Impress.js, Slides, Prezi 等等.我认为一个现代化的博客怎么能少了放html幻灯的功能呢~
 
